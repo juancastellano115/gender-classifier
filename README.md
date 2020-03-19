@@ -1,4 +1,5 @@
-# gender-classifier
+# Clasificación de Género con Vue y Tensorflow
+### Pequeño proyecto para juntar un algoritmo de clasificación de género en deep learning entrenado localmente con una aplicación web SPA.
 
 ## Project setup
 ```
@@ -20,5 +21,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
