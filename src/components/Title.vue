@@ -4,7 +4,7 @@
     <div class="container">
       <h1 class="title">{{ msg }}</h1>
       <h2 class="subtitle">
-       <a href="github.com/juancastellano115"> <i class="fab fa-github"></i> See the code on github </a>
+       <a href="https://github.com/juancastellano115/gender-classifier" target="_blank"><i class="fab fa-github"></i> See the code on github </a>
       </h2>
     </div>
   </div>

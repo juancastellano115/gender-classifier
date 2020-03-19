@@ -93,7 +93,7 @@ export default {
     },
     classify: async function() {
       // eslint-disable-next-line no-undef
-      const classifier = await ml5.imageClassifier("/model/model.json");
+      const classifier = await ml5.imageClassifier("https://raw.githubusercontent.com/juancastellano115/gender-classifier/master/public/model/model.json");
       await classifier.classify(
         document.getElementById("output"),
         (err, results) => {
